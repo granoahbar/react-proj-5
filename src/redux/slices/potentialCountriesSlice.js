@@ -1,3 +1,4 @@
+// importing the create slices function from the redux toolkit
 import { createSlice } from "@reduxjs/toolkit";
 
 export const potentialCountriesSlice = createSlice({
